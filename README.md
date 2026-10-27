@@ -1,3 +1,5 @@
+# Multi Agent collaboration with MCP, Strands and Amazon Bedrock AgentCore
+
 > **A self-paced learning workshop.** Written for teaching rather than as a reference
 > implementation or a deployable demo: the labs favour clarity over production hardening.
 > All data is synthetic. Work through the labs in order, starting with `prereqs/`.
