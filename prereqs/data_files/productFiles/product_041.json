@@ -1,0 +1,32 @@
+{
+  "product_id": "PROD-041",
+  "product_name": "Under Armour HeatGear Tech T-Shirt",
+  "brand_name": "Under Armour",
+  "category": "Clothing",
+  "subcategory": "Athletic Wear",
+  "gender": "Men",
+  "price": 25.00,
+  "sale_price": 20.00,
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL",
+    "3XL"
+  ],
+  "color": [
+    "Black",
+    "White",
+    "Navy",
+    "Red",
+    "Grey"
+  ],
+  "materials": [
+    "100% Polyester",
+    "HeatGear fabric",
+    "Moisture-wicking"
+  ],
+  "season": "Spring/Summer",
+  "product_description": "Discover the exceptional quality of Under Armour HeatGear Tech T-Shirt by Under Armour. Designed for Men with premium 100% Polyester, HeatGear fabric and Moisture-wicking, this Athletic Wear offers both style and functionality. Perfect for Spring/Summer use and available in Black, White, Navy, Red and Grey, it's a versatile addition to enhance your personal collection."
+}

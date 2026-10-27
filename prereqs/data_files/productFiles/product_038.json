@@ -1,0 +1,31 @@
+{
+  "product_id": "PROD-038",
+  "product_name": "Champion Reverse Weave Hoodie",
+  "brand_name": "Champion",
+  "category": "Clothing",
+  "subcategory": "Hoodies",
+  "gender": "Unisex",
+  "price": 70.00,
+  "sale_price": 56.00,
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "color": [
+    "Oxford Grey",
+    "Navy",
+    "Black",
+    "Scarlet",
+    "Royal Blue"
+  ],
+  "materials": [
+    "82% Cotton",
+    "18% Polyester",
+    "Reverse weave construction"
+  ],
+  "season": "Fall/Winter",
+  "product_description": "Stay cozy and stylish in this premium Champion Reverse Weave Hoodie from Champion. Made from 82% Cotton, 18% Polyester and Reverse weave construction for exceptional warmth and softness. The Oxford Grey, Navy, Black, Scarlet and Royal Blue options ensure this Unisex layer works perfectly with your existing wardrobe for Fall/Winter comfort that doesn't compromise on style."
+}

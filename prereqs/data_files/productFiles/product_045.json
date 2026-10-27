@@ -1,0 +1,31 @@
+{
+  "product_id": "PROD-045",
+  "product_name": "Vans Old Skool Sneakers",
+  "brand_name": "Vans",
+  "category": "Footwear",
+  "subcategory": "Casual Shoes",
+  "gender": "Unisex",
+  "price": 65.00,
+  "sale_price": 52.00,
+  "size": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12"
+  ],
+  "color": [
+    "Black/White",
+    "Navy/White",
+    "Checkerboard",
+    "All Black"
+  ],
+  "materials": [
+    "Canvas and suede upper",
+    "Rubber waffle outsole"
+  ],
+  "season": "All Season",
+  "product_description": "Step out in confidence with these trendsetting Vans Old Skool Sneakers by Vans. The Canvas and suede upper and Rubber waffle outsole construction ensures all-day comfort while the eye-catching Black/White, Navy/White, Checkerboard and All Black designs make a bold statement. Perfect for Unisex style enthusiasts seeking versatile All Season footwear that blends fashion and functionality."
+}

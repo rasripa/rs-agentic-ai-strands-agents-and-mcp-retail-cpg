@@ -1,0 +1,32 @@
+{
+  "product_id": "PROD-020",
+  "product_name": "Timberland 6-Inch Premium Waterproof Boots",
+  "brand_name": "Timberland",
+  "category": "Footwear",
+  "subcategory": "Boots",
+  "gender": "Unisex",
+  "price": 198.00,
+  "sale_price": 158.40,
+  "size": [
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13"
+  ],
+  "color": [
+    "Wheat",
+    "Black",
+    "Dark Brown",
+    "Grey"
+  ],
+  "materials": [
+    "Premium nubuck leather",
+    "Waterproof membrane",
+    "Rubber lug sole"
+  ],
+  "season": "Fall/Winter",
+  "product_description": "Conquer any terrain with the rugged yet refined Timberland 6-Inch Premium Waterproof Boots from Timberland. Crafted from Premium nubuck leather, Waterproof membrane and Rubber lug sole for exceptional durability and comfort. The Wheat, Black, Dark Brown and Grey options offer versatile style for Unisex wearers during Fall/Winter, whether navigating urban landscapes or wilderness trails."
+}

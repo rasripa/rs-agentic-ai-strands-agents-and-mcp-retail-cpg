@@ -1,0 +1,34 @@
+{
+  "product_id": "PROD-009",
+  "product_name": "Converse Chuck Taylor All Star High Top",
+  "brand_name": "Converse",
+  "category": "Footwear",
+  "subcategory": "Casual Shoes",
+  "gender": "Unisex",
+  "price": 65.00,
+  "sale_price": 55.00,
+  "size": [
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13"
+  ],
+  "color": [
+    "Black",
+    "White",
+    "Red",
+    "Navy",
+    "Optical White"
+  ],
+  "materials": [
+    "Canvas upper",
+    "Rubber toe cap",
+    "Rubber outsole"
+  ],
+  "season": "All Season",
+  "product_description": "Step out in confidence with these trendsetting Converse Chuck Taylor All Star High Top by Converse. The Canvas upper, Rubber toe cap and Rubber outsole construction ensures all-day comfort while the eye-catching Black, White, Red, Navy and Optical White designs make a bold statement. Perfect for Unisex style enthusiasts seeking versatile All Season footwear that blends fashion and functionality."
+}

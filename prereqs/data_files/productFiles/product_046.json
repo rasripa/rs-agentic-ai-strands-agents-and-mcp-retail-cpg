@@ -1,0 +1,34 @@
+{
+  "product_id": "PROD-046",
+  "product_name": "Lululemon Align High-Rise Pant",
+  "brand_name": "Lululemon",
+  "category": "Clothing",
+  "subcategory": "Activewear",
+  "gender": "Women",
+  "price": 128.00,
+  "sale_price": 102.40,
+  "size": [
+    "0",
+    "2",
+    "4",
+    "6",
+    "8",
+    "10",
+    "12",
+    "14"
+  ],
+  "color": [
+    "Black",
+    "Navy",
+    "Dark Olive",
+    "Cayenne",
+    "White"
+  ],
+  "materials": [
+    "Nulu fabric",
+    "81% Nylon",
+    "19% Lycra elastane"
+  ],
+  "season": "All Season",
+  "product_description": "Discover the exceptional quality of Lululemon Align High-Rise Pant by Lululemon. Designed for Women with premium Nulu fabric, 81% Nylon and 19% Lycra elastane, this Activewear offers both style and functionality. Perfect for All Season use and available in Black, Navy, Dark Olive, Cayenne and White, it's a versatile addition to enhance your personal collection."
+}

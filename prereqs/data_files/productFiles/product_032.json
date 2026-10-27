@@ -1,0 +1,27 @@
+{
+  "product_id": "PROD-032",
+  "product_name": "Kate Spade New York Crossbody Bag",
+  "brand_name": "Kate Spade",
+  "category": "Accessories",
+  "subcategory": "Handbags",
+  "gender": "Women",
+  "price": 179.00,
+  "sale_price": 143.20,
+  "size": [
+    "Small",
+    "Medium"
+  ],
+  "color": [
+    "Black",
+    "Pink",
+    "Cream",
+    "Navy"
+  ],
+  "materials": [
+    "Saffiano leather",
+    "Gold-tone hardware",
+    "Fabric lining"
+  ],
+  "season": "All Season",
+  "product_description": "Carry your essentials in sophisticated style with the Kate Spade New York Crossbody Bag by Kate Spade. Expertly crafted from Saffiano leather, Gold-tone hardware and Fabric lining with attention to every detail. The Black, Pink, Cream and Navy options make this Women bag a versatile accessory for All Season occasions from daily commutes to special events."
+}

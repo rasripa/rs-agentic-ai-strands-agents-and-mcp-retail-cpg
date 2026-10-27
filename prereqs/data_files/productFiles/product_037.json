@@ -1,0 +1,28 @@
+{
+  "product_id": "PROD-037",
+  "product_name": "Ray-Ban Aviator Classic Sunglasses",
+  "brand_name": "Ray-Ban",
+  "category": "Accessories",
+  "subcategory": "Sunglasses",
+  "gender": "Unisex",
+  "price": 154.00,
+  "sale_price": 123.20,
+  "size": [
+    "55mm",
+    "58mm",
+    "62mm"
+  ],
+  "color": [
+    "Gold/Green",
+    "Silver/Blue",
+    "Black/Grey",
+    "Gold/Brown"
+  ],
+  "materials": [
+    "Metal frame",
+    "Crystal lenses",
+    "Adjustable nose pads"
+  ],
+  "season": "Spring/Summer",
+  "product_description": "Shield your eyes in style with these iconic Ray-Ban Aviator Classic Sunglasses by Ray-Ban. Featuring Metal frame, Crystal lenses and Adjustable nose pads construction for lightweight durability and maximum UV protection. The fashionable Gold/Green, Silver/Blue, Black/Grey and Gold/Brown options make these Unisex sunglasses the perfect accessory for Spring/Summer adventures or everyday elegance."
+}

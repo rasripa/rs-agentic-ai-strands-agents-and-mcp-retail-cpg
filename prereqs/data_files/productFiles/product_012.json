@@ -1,0 +1,31 @@
+{
+  "product_id": "PROD-012",
+  "product_name": "Gap Kids Denim Jacket",
+  "brand_name": "Gap",
+  "category": "Clothing",
+  "subcategory": "Kids Outerwear",
+  "gender": "Kids",
+  "price": 49.95,
+  "sale_price": 34.97,
+  "size": [
+    "4T",
+    "5T",
+    "6",
+    "7",
+    "8",
+    "10",
+    "12",
+    "14"
+  ],
+  "color": [
+    "Medium Wash",
+    "Dark Wash",
+    "Light Wash"
+  ],
+  "materials": [
+    "100% Cotton Denim",
+    "Metal buttons"
+  ],
+  "season": "Spring/Fall",
+  "product_description": "Discover the exceptional quality of Gap Kids Denim Jacket by Gap. Designed for Kids with premium 100% Cotton Denim and Metal buttons, this Kids Outerwear offers both style and functionality. Perfect for Spring/Fall use and available in Medium Wash, Dark Wash and Light Wash, it's a versatile addition to enhance your personal collection."
+}

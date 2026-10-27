@@ -1,0 +1,33 @@
+{
+  "product_id": "PROD-001",
+  "product_name": "Nike Air Max 270 Running Shoes",
+  "brand_name": "Nike",
+  "category": "Footwear",
+  "subcategory": "Athletic Shoes",
+  "gender": "Unisex",
+  "price": 150.00,
+  "sale_price": 119.99,
+  "size": [
+    "7",
+    "8",
+    "8.5",
+    "9",
+    "9.5",
+    "10",
+    "10.5",
+    "11",
+    "12"
+  ],
+  "color": [
+    "Black/White",
+    "Navy/Red",
+    "Grey/Orange"
+  ],
+  "materials": [
+    "Synthetic leather",
+    "Mesh",
+    "Rubber sole"
+  ],
+  "season": "All Season",
+  "product_description": "Experience peak performance with the Nike Air Max 270 Running Shoes, featuring innovative design for maximum comfort and support. Perfect for athletes, fitness enthusiasts, and casual wearers alike. The Synthetic leather, Mesh and Rubber sole construction offers durability while the Black/White, Navy/Red and Grey/Orange options ensure style for All Season activities."
+}

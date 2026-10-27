@@ -1,0 +1,10 @@
+boto3
+bedrock-agentcore
+bedrock-agentcore-starter-toolkit
+aws-opentelemetry-distro>=0.10.1
+strands-agents[a2a]>=1.32.0
+strands-agents-tools>=0.2.23
+a2a-sdk>=0.3.25
+mcp
+httpx
+pyyaml

@@ -1,0 +1,27 @@
+{
+  "product_id": "PROD-004",
+  "product_name": "Apple Watch Series 9 GPS",
+  "brand_name": "Apple",
+  "category": "Electronics",
+  "subcategory": "Smartwatches",
+  "gender": "Unisex",
+  "price": 399.00,
+  "sale_price": 349.00,
+  "size": [
+    "41mm",
+    "45mm"
+  ],
+  "color": [
+    "Midnight",
+    "Starlight",
+    "Silver",
+    "Product Red"
+  ],
+  "materials": [
+    "Aluminum case",
+    "Sport Band",
+    "Ion-X glass"
+  ],
+  "season": "All Season",
+  "product_description": "Discover the exceptional quality of Apple Watch Series 9 GPS by Apple. Designed for Unisex with premium Aluminum case, Sport Band and Ion-X glass, this Smartwatches offers both style and functionality. Perfect for All Season use and available in Midnight, Starlight, Silver and Product Red, it's a versatile addition to enhance your personal collection."
+}

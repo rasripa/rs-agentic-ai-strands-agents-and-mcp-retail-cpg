@@ -1,0 +1,29 @@
+{
+  "product_id": "PROD-044",
+  "product_name": "Patagonia Better Sweater Fleece Jacket",
+  "brand_name": "Patagonia",
+  "category": "Clothing",
+  "subcategory": "Outerwear",
+  "gender": "Unisex",
+  "price": 139.00,
+  "sale_price": 111.20,
+  "size": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "color": [
+    "Navy",
+    "Black",
+    "Forge Grey",
+    "Classic Red"
+  ],
+  "materials": [
+    "100% Recycled polyester fleece"
+  ],
+  "season": "Fall/Winter",
+  "product_description": "Brave the elements in style with the Patagonia Better Sweater Fleece Jacket from Patagonia. Expertly designed using 100% Recycled polyester fleece for optimal protection and comfort. The sophisticated Navy, Black, Forge Grey and Classic Red options make this Unisex jacket a versatile Fall/Winter essential that transitions seamlessly from outdoor adventures to urban settings."
+}

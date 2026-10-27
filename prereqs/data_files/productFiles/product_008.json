@@ -1,0 +1,29 @@
+{
+  "product_id": "PROD-008",
+  "product_name": "Ralph Lauren Classic Fit Polo Shirt",
+  "brand_name": "Ralph Lauren",
+  "category": "Clothing",
+  "subcategory": "Polo Shirts",
+  "gender": "Men",
+  "price": 89.50,
+  "sale_price": 71.60,
+  "size": [
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "color": [
+    "Navy",
+    "White",
+    "Light Blue",
+    "Forest Green",
+    "Burgundy"
+  ],
+  "materials": [
+    "100% Cotton Pique"
+  ],
+  "season": "Spring/Summer",
+  "product_description": "Discover the exceptional quality of Ralph Lauren Classic Fit Polo Shirt by Ralph Lauren. Designed for Men with premium 100% Cotton Pique, this Polo Shirts offers both style and functionality. Perfect for Spring/Summer use and available in Navy, White, Light Blue, Forest Green and Burgundy, it's a versatile addition to enhance your personal collection."
+}

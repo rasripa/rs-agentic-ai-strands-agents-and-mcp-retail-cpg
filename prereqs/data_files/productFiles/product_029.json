@@ -1,0 +1,30 @@
+{
+  "product_id": "PROD-029",
+  "product_name": "Carter's Baby 3-Pack Bodysuit Set",
+  "brand_name": "Carter's",
+  "category": "Clothing",
+  "subcategory": "Baby Clothes",
+  "gender": "Kids",
+  "price": 24.00,
+  "sale_price": 19.20,
+  "size": [
+    "Newborn",
+    "3M",
+    "6M",
+    "9M",
+    "12M",
+    "18M",
+    "24M"
+  ],
+  "color": [
+    "Multi-color pack",
+    "Neutral pack",
+    "Bright pack"
+  ],
+  "materials": [
+    "100% Cotton",
+    "Snap closures"
+  ],
+  "season": "All Season",
+  "product_description": "Discover the exceptional quality of Carter's Baby 3-Pack Bodysuit Set by Carter's. Designed for Kids with premium 100% Cotton and Snap closures, this Baby Clothes offers both style and functionality. Perfect for All Season use and available in Multi-color pack, Neutral pack and Bright pack, it's a versatile addition to enhance your personal collection."
+}

@@ -1,0 +1,32 @@
+{
+  "product_id": "PROD-010",
+  "product_name": "Uniqlo Ultra Light Down Jacket",
+  "brand_name": "Uniqlo",
+  "category": "Clothing",
+  "subcategory": "Outerwear",
+  "gender": "Unisex",
+  "price": 69.90,
+  "sale_price": 49.90,
+  "size": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "color": [
+    "Black",
+    "Navy",
+    "Red",
+    "Olive",
+    "Grey"
+  ],
+  "materials": [
+    "100% Nylon",
+    "Down filling",
+    "Water-repellent coating"
+  ],
+  "season": "Fall/Winter",
+  "product_description": "Brave the elements in style with the Uniqlo Ultra Light Down Jacket from Uniqlo. Expertly designed using 100% Nylon, Down filling and Water-repellent coating for optimal protection and comfort. The sophisticated Black, Navy, Red, Olive and Grey options make this Unisex jacket a versatile Fall/Winter essential that transitions seamlessly from outdoor adventures to urban settings."
+}

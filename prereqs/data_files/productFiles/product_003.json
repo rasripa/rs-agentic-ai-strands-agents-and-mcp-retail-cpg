@@ -1,0 +1,28 @@
+{
+  "product_id": "PROD-003",
+  "product_name": "Zara Floral Print Midi Dress",
+  "brand_name": "Zara",
+  "category": "Clothing",
+  "subcategory": "Dresses",
+  "gender": "Women",
+  "price": 79.90,
+  "sale_price": 59.90,
+  "size": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL"
+  ],
+  "color": [
+    "Floral Blue",
+    "Floral Pink",
+    "Black Print"
+  ],
+  "materials": [
+    "100% Polyester",
+    "Lining: 100% Viscose"
+  ],
+  "season": "Spring/Summer",
+  "product_description": "Captivate any room in this stunning Zara Floral Print Midi Dress by Zara. Beautifully crafted from 100% Polyester and Lining: 100% Viscose with meticulous attention to detail. The flattering silhouette and Floral Blue, Floral Pink and Black Print options make this Women dress perfect for Spring/Summer occasions from casual gatherings to formal events."
+}

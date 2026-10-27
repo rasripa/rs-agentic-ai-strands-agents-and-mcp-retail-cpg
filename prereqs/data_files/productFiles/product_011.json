@@ -1,0 +1,26 @@
+{
+  "product_id": "PROD-011",
+  "product_name": "Michael Kors Jet Set Travel Tote",
+  "brand_name": "Michael Kors",
+  "category": "Accessories",
+  "subcategory": "Handbags",
+  "gender": "Women",
+  "price": 198.00,
+  "sale_price": 158.40,
+  "size": [
+    "Medium",
+    "Large"
+  ],
+  "color": [
+    "Black",
+    "Brown",
+    "Navy",
+    "Vanilla"
+  ],
+  "materials": [
+    "Saffiano leather",
+    "Gold-tone hardware"
+  ],
+  "season": "All Season",
+  "product_description": "Carry your essentials in sophisticated style with the Michael Kors Jet Set Travel Tote by Michael Kors. Expertly crafted from Saffiano leather and Gold-tone hardware with attention to every detail. The Black, Brown, Navy and Vanilla options make this Women bag a versatile accessory for All Season occasions from daily commutes to special events."
+}

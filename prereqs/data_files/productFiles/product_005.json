@@ -1,0 +1,33 @@
+{
+  "product_id": "PROD-005",
+  "product_name": "Adidas Superstar Kids Sneakers",
+  "brand_name": "Adidas",
+  "category": "Footwear",
+  "subcategory": "Kids Shoes",
+  "gender": "Kids",
+  "price": 65.00,
+  "sale_price": 52.00,
+  "size": [
+    "10K",
+    "11K",
+    "12K",
+    "13K",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5"
+  ],
+  "color": [
+    "White/Black",
+    "White/Pink",
+    "Black/White"
+  ],
+  "materials": [
+    "Synthetic leather",
+    "Rubber shell toe",
+    "Rubber outsole"
+  ],
+  "season": "All Season",
+  "product_description": "Discover the exceptional quality of Adidas Superstar Kids Sneakers by Adidas. Designed for Kids with premium Synthetic leather, Rubber shell toe and Rubber outsole, this Kids Shoes offers both style and functionality. Perfect for All Season use and available in White/Black, White/Pink and Black/White, it's a versatile addition to enhance your personal collection."
+}

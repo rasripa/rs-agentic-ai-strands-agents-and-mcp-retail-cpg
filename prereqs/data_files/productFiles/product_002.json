@@ -1,0 +1,29 @@
+{
+  "product_id": "PROD-002",
+  "product_name": "Levi's 501 Original Fit Jeans",
+  "brand_name": "Levi's",
+  "category": "Clothing",
+  "subcategory": "Jeans",
+  "gender": "Men",
+  "price": 89.50,
+  "sale_price": 69.99,
+  "size": [
+    "28x30",
+    "30x32",
+    "32x32",
+    "34x32",
+    "36x34",
+    "38x34"
+  ],
+  "color": [
+    "Dark Blue",
+    "Light Blue",
+    "Black",
+    "Grey"
+  ],
+  "materials": [
+    "100% Cotton Denim"
+  ],
+  "season": "All Season",
+  "product_description": "Elevate your wardrobe with these premium Levi's 501 Original Fit Jeans from Levi's. Crafted from 100% Cotton Denim for exceptional comfort and durability. The versatile Dark Blue, Light Blue, Black and Grey options pair perfectly with any top for a timeless Men look that transitions effortlessly from casual outings to semi-formal occasions year-round."
+}

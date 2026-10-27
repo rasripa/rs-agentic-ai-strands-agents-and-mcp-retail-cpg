@@ -1,0 +1,30 @@
+{
+  "product_id": "PROD-006",
+  "product_name": "H&M Oversized Knit Sweater",
+  "brand_name": "H&M",
+  "category": "Clothing",
+  "subcategory": "Sweaters",
+  "gender": "Women",
+  "price": 39.99,
+  "sale_price": 29.99,
+  "size": [
+    "XS",
+    "S",
+    "M",
+    "L",
+    "XL",
+    "XXL"
+  ],
+  "color": [
+    "Cream",
+    "Black",
+    "Grey Melange",
+    "Dusty Pink"
+  ],
+  "materials": [
+    "60% Cotton",
+    "40% Acrylic"
+  ],
+  "season": "Fall/Winter",
+  "product_description": "Stay cozy and stylish in this premium H&M Oversized Knit Sweater from H&M. Made from 60% Cotton and 40% Acrylic for exceptional warmth and softness. The Cream, Black, Grey Melange and Dusty Pink options ensure this Women layer works perfectly with your existing wardrobe for Fall/Winter comfort that doesn't compromise on style."
+}
